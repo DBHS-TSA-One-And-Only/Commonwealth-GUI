@@ -5,6 +5,7 @@ package commonwealth.gui;
 
 //HAHAHA ANOTHER COMMENT!!!!
 //Samantha is amazing
+//Hablamos en espanol en este programa!
 public class CommonwealthGUI {
 
 
