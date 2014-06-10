@@ -1,7 +1,6 @@
 package commonwealth.gui;
 
 
-
 public class CommonwealthGUI {
 
 
