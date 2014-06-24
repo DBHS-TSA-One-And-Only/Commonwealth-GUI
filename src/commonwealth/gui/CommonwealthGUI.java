@@ -99,9 +99,9 @@ public class CommonwealthGUI extends javax.swing.JFrame {
                     checkButtonActionPerformed(evt);
                 } catch (FileNotFoundException e) {
                     // TODO Auto-generated catch block
-                    e.printStackTrace();
+                    print("File not found :(");
                 } catch (IndexOutOfBoundsException e){
-                    e.printStackTrace();
+                    print("Oops, something went wrong. Try Again!");
                 }
                 
             }
